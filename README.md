@@ -118,7 +118,7 @@
   19 | SIGSTOP(STOP) | 정지 (프로그램에서 핸들러를 만들 수 없는 시그널)
   20 | SIGTSTP(TSTP) | 정지 (CTRL + Z)
    
-  >> 사용방법 : $ kill signal-pid
+  >> 사용방법 : _$ kill signal-pid_
   
    
   EX) pid 10
