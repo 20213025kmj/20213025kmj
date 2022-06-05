@@ -147,7 +147,9 @@
 
 
  ### 사용방법 
- >> $jobs option -job ID
+ >> _$jobs option -job ID_
+
+
  >> $jobs -x command -args
   
   
